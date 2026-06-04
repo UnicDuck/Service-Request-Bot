@@ -45,6 +45,7 @@ Telegram-бот для обработки заявок малого бизнес
 
 ## Структура проекта
 
+```text
 service-request-bot/
 ├── bot.py
 ├── database.py
@@ -52,3 +53,4 @@ service-request-bot/
 ├── .env.example
 ├── .gitignore
 └── README.md
+```
